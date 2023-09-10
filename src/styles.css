@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+button {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+nav {
+  background-color: blue;
+}
+.a {
+  display: flex;
+  justify-content: center;
+}
+body {
+  background-color: black;
+}
+.form-control {
+  background-color: brown;
+}
+p {
+  color: yellow;
+}
+h3 {
+  color: yellow;
+}
